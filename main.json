@@ -24,7 +24,7 @@
         {
          "id":6,
          "image":"europa.png",
-         "name":"Bildebene 2",
+         "name":"ozean",
          "opacity":1,
          "type":"imagelayer",
          "visible":true,
