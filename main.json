@@ -289,7 +289,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/das-labor.github.io\/workadv_das-labor\/main.json"
+                 "value":"\/_\/global\/das-labor.github.io\/workadv_das-labor\/basement.json#start_chaosworld"
                 }],
          "type":"tilelayer",
          "visible":true,
